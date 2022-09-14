@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mor Ashkenazi",
+      "email": "mora@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "name": "Israel",
+      "email": "israel@gmail.com",
+      "password": "12345678",
+      "id": 2
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "name": "Harry Potter",
+      "author": "Mor Ashkenazi",
+      "genre": "Action",
+      "price": 500
+    },
+    {
+      "name": "Harry Potter 2",
+      "author": "JK Rolling",
+      "genre": "Action",
+      "price": 120,
+      "id": 2
+    },
+    {
+      "name": "Harry Potter 3",
+      "author": "JK Rolling",
+      "genre": "Action",
+      "price": 200,
+      "id": 4
+    },
+    {
+      "name": "Harry Potter 2",
+      "author": "JK Rolling",
+      "genre": "Action",
+      "price": 120,
+      "id": 5
+    },
+    {
+      "name": "Mor Ashkenazi",
+      "author": "Gargamel",
+      "genre": "Action",
+      "price": 250,
+      "id": 6
+    }
+  ]
+}
